@@ -1,0 +1,40 @@
+.logo1{
+    position: absolute;
+    top: 2%;
+    left: 3%;
+    width: 15%;
+    border-radius: 100%;
+}
+.chuf{
+    justify-content: center;
+    position: absolute;
+    top: 25%;
+    left: 20%;
+    font-size: 100px;
+    color: white;
+    text-shadow: 2px 2px 6px;
+}
+.khung1{
+    max-width: 95%;
+    padding-top: 2%;
+}
+.chuf1{
+    text-align: center;
+    font-size: 20px;
+}
+.chuf2{
+    font-size: 20px;
+    position: relative;
+    margin-left: 8.5%;
+}
+.chuf3{
+    position: relative;
+    margin-left: 8.5%;
+    padding-top: 2%;
+}
+.chuf4{
+    font-size: 20px;
+    position: relative;
+    margin-left: 8.5%;
+    line-height: 2;
+}
